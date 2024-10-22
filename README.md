@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi, I’m @Piguiegamer
 - Studying to become a software development technologist. (Currently in seventh semester)
 - I'm interested in Game Development
 - I'm currently studying the .NET framework
-- - 👋 Hi, I’m @Piguiegamer
+
+<!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
