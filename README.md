@@ -1,5 +1,5 @@
 ## Hi, I’m @Piguiegamer
-- Studying to become a software development technologist. (Currently in seventh semester)
+- Software development technologist.
 - I'm interested in Game Development
 - I'm currently studying the .NET framework
 
